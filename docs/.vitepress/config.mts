@@ -85,7 +85,7 @@ export default defineConfig({
             { text: "项目规范", link: "/cooperation/standard" },
             { text: "授权项目",
               items: [
-                { text: "XZY-RAMOS", link: "/cooperation/xzy" },
+                { text: "无", link: "/" },
               ]},
             ]},
         ],
