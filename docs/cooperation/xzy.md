@@ -24,4 +24,4 @@ CE-RAMOS开发团队保留以下权利：在不事先通知项目负责人情况
 
 （由CE-RAMOS开发团队免费提供视频加速服务）
 
-<video src="https://pic.ce-ramos.cn/XZY-RAMOS.mp4" style="width: 100%;" controls="controls"></video>
+<video src="https://p1.ce-ramos.cn/XZY-RAMOS.mp4" style="width: 100%;" controls="controls"></video>

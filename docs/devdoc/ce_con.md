@@ -18,15 +18,14 @@
 运行环境、远程控制、游戏娱乐、硬件检测、系统工具、文件工具、网络浏览、输入法、视频音乐、实用工具、社交通讯、上传下载、驱动程序、其他软件、教育学习、磁盘工具、编程开发、备份还原、办公编辑、安全维护
 :::
 ## 上传
-<h3><del>自主上传(推荐)</del></h3>
+<h3>自主上传(推荐)</h3>
 
-<del>通过下面这个链接上传</del>
+通过下面这个链接上传
 
-<del>[上传链接](https://upload.ce-ramos.cn/)</del>
-
-:::tip 提示
-由于考虑到部分原因，已停止自主上传服务，请加Q群上传
-:::
+[上传链接](https://zzvcom-my.sharepoint.cn/:f:/g/personal/cja002_sunteacher_cn/Eocymptkh0tBkdpTsf5chcMBFY70Wf-wjayZgg2e3X9ZIw?e=YB4zdS)
 
 ### Q群上传
 请[加入 QQ 群](https://ce-ramos.cn/qqg.html)，把制作好的插件上传至群文件中的CE-RAMOS插件（待审核）文件夹，@一下群主φ(゜▽゜*)♪
+
+## 审核结果
+如果你的插件可以在[CE-RAMOS文件下载站](https://files.ce-ramos.cn/)中搜索到或可以在CE-插件市场中搜索到就说明已经审核通过，不能搜索到的为审核中或未审核通过（超过3个月仍未上架CE-插件市场的即为未审核通过，请核对[插件投稿要求](https://docs.ce-ramos.cn/devdoc/ce_con.html#%E6%8F%92%E4%BB%B6%E6%8A%95%E7%A8%BF)）

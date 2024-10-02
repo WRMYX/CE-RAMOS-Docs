@@ -11,4 +11,4 @@
 # 介绍
 关于CE-RAMOS v2.2 Pro的体验请观看视频内容：
 
-<video src="https://pic.ce-ramos.cn/CE-RAMOS.mp4" style="width: 100%;" controls="controls" poster="https://pic.imgdb.cn/item/66e7b8acd9c307b7e9dbfc3f.jpg"></video>
+<video src="https://p1.ce-ramos.cn/CE-RAMOS.mp4" style="width: 100%;" controls="controls" poster="https://pic.imgdb.cn/item/66e7b8acd9c307b7e9dbfc3f.jpg"></video>
