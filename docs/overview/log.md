@@ -12,7 +12,7 @@
 <br>
 
 #### 非UWP版本：
-* 与UWP相同母盘制作的内核
+* 与UWP相同母盘制作的内核!
 * 使用WinXShell、StartAllBack等第三方组件，占用更低，速度更快
 
 <Badge type="tip">版本：{{ iso_second_version }}</Badge> <Badge type="info">作者：CE-RAMOS开发团队</Badge> <Badge type="warning">版本类型：Stable</Badge>
